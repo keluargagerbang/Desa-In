@@ -1,0 +1,385 @@
+body,
+b {
+    font-family: 'Roboto', sans-serif;
+}
+
+.inipadding {
+    padding-left: 4em;
+    padding-right: 4em;
+}
+
+nav {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand {
+    background: -webkit-linear-gradient(#0D8748, #1FE880);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+
+.navbar {
+    font-size: 26px;
+}
+
+
+#main {
+    background-repeat: no-repeat;
+    padding-bottom: 0em;
+    margin-bottom: 0em;
+}
+
+
+
+.main-text {
+    color: #01AFCA;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    float: left;
+    font-weight: bold;
+}
+
+.main-text-title {
+    padding-top: 1em;
+    font-weight: 500;
+    float: left;
+    padding-right: 0em;
+    margin-right: 0em;
+    font-family: 'Montserrat', sans-serif;
+    color: #4d4d4d;
+    float: left;
+}
+
+
+.main-text-title-gradient {
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 0em;
+    margin-left: 0em;
+    background: -webkit-linear-gradient(#db0083, #6501e3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    float: left;
+}
+
+.main-text h5 {
+    color: #666666;
+    font-style: italic;
+    font-weight: 600;
+}
+
+
+
+.main-image {
+    width: 100%;
+    float: right;
+    padding-bottom: 0em;
+    margin-bottom: 0em;
+}
+
+.main-content {
+    padding-bottom: 0em;
+    margin-bottom: 0em;
+}
+
+.btn {
+    border: 2px solid;
+    /* Remove borders */
+    color: white;
+    /* Add a text color */
+    padding: 8px 20px;
+    /* Add some padding */
+    cursor: pointer;
+    /* Add a pointer cursor on mouse-over */
+    border-radius: 40px;
+}
+
+.learnmore {
+    background-color: #db0083;
+    border-color: #db0083;
+}
+
+.learnmore:hover {
+    border-color: #1FE880;
+    color: #1FE880;
+    background-color: #ffffff;
+}
+
+.contactus {
+    background-color: white;
+    padding: 8px 40px;
+}
+
+.contactus:hover {
+    border-color: #0D8748;
+    color: #0D8748;
+    background-color: #ffffff;
+}
+
+.background-image {
+    background-image: url("../assets/images/images/background.png");
+    background-color: #07285E;
+}
+
+
+
+.card-title {
+    color: #07285E
+}
+
+.problem {
+    padding-top: 5em;
+    padding-bottom: 0em;
+}
+
+.problem-title {
+    font-weight: bold;
+    text-align: center;
+    padding-top: 0.5em;
+    background: -webkit-linear-gradient(#0D8748, #1FE880);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 0em;
+    margin-bottom: 0em;
+}
+
+.problem-text {
+    padding-top: 0em;
+    color: #383838;
+    font-size: 26px;
+}
+
+
+#solution {
+    background-image: url("../assets/images/images/background-2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 2em;
+    padding-bottom: 10em;
+}
+
+.solution-image {
+    width: 100%;
+}
+
+.solution-title {
+    font-weight: bold;
+    text-align: left;
+    padding-top: 2em;
+    color: #0c1115;
+    padding-bottom: 0em;
+    margin-bottom: 0em;
+}
+
+.solution-text {
+    color: #0c1115;
+    font-size: 22px;
+}
+
+.solution-content {
+    padding-top: 0em;
+    color: #0c1115;
+    font-size: 22px;
+    text-align: left;
+    font-weight: 500;
+}
+
+.paketbg {
+    /* The image used */
+    background-image: url(".../assets/images/images/background-car.png");
+
+}
+
+#paket {
+    background-image: url("../assets/images/images/background-car.png");
+
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.product-title {
+    font-weight: bold;
+    color: #0c1115;
+    padding-bottom: 1em;
+}
+
+#product {
+    background-image: url("../assets/images/images/background-3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 10em;
+}
+
+
+
+.contact-title {
+    font-weight: bold;
+    text-align: left;
+    padding-top: 3em;
+    background: -webkit-linear-gradient(#0D8748, #1FE880);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 1em;
+}
+
+.contactus2 {
+    margin-top: 2em;
+    background-color: #1FE880;
+    border-color: #1FE880;
+    padding: 8px 40px;
+    margin-bottom: 3em;
+}
+
+.contactus2:hover {
+    border-color: #0D8748;
+    color: #0D8748;
+    background-color: #0c1115;
+}
+
+
+.footer-all {
+    padding-top: 3em;
+}
+
+.footer-title {
+    background: -webkit-linear-gradient(#db0083, #6501e3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+
+.footer-text {
+    color: #ffffff;
+}
+
+.list-unstyled {
+    color: #db0083;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.footer-list {
+    color: #db0083;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.footer-list:hover {
+    color: #db0083;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.footer-list:active {
+    color: #db0083;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.footer-copyright {
+    color: #ffffff;
+}
+
+.footer-copyright-2 {
+    background: -webkit-linear-gradient(#db0083, #6501e3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.button {
+    border-radius: 4px;
+    background-color: #1FE880;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.button:hover span {
+    padding-right: 25px;
+}
+
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+
+.button2 {
+    border-radius: 4px;
+    background-color: #1FE880;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-top: 1em;
+    margin-left: 1.5em;
+}
+
+.button2 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.button2 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.button2:hover span {
+    padding-right: 25px;
+}
+
+.button2:hover span:after {
+    opacity: 1;
+    right: 0;
+}
