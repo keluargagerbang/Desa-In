@@ -383,3 +383,12 @@ h4 {
     opacity: 1;
     right: 0;
 }
+
+@media (min-width: 992px) {
+	.text-lg-end {
+		text-align: right !important;
+	}
+	.navbar-brand {
+		margin-left: 10px;
+	}
+}
